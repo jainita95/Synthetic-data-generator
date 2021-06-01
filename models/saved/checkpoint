@@ -1,0 +1,2 @@
+model_checkpoint_path: "generator_fraud"
+all_model_checkpoint_paths: "generator_fraud"
